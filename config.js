@@ -1,4 +1,4 @@
-const nameGirl = 'S';
+const nameGirl = '';
 const giftUrl = '#';
 const eventName = 'Chúc Mừng Sinh Nhựt Em Bé sí';
 const titleCard = 'Em bé sí thưm';
